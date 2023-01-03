@@ -1,0 +1,299 @@
+{
+    "worshipHymnList": {
+        "hymn1": "Holy, Holy, Holy A",
+        "hymn2": "Holy, Holy, Holy B",
+        "hymn3": "Only One God We’re to Worship",
+        "hymn4": "We Children Of Kingdom of God",
+        "hymn5": "The Earth is The Lord’s",
+        "hymn6": "Bow down unto Father",
+        "hymn7": " This day indeed is a great day",
+        "hymn8": "God Himself is With Us",
+        "hymn9": "Holy Father Son Holy Ghost we worship",
+        "hymn10": "Oh How beautiful are thy courts above",
+        "hymn11": "All ends of earth shall remember",
+        "hymn12": "Lift up your heads oh ye gates",
+        "hymn13": "We give glory Honour and praise",
+        "hymn14": "How beautiful is thy throne in heaven",
+        "hymn15": "And As It Has Been Written Thus",
+        "hymn16": "Come now, let us worship",
+        "hymn17": "Holy, The Heavens Praise",
+        "hymn18": " Holy, Holy to Our King"
+    },
+    "worshipHymn": {
+        "holyHoly1": {
+            "id": "1",
+            "title": "HOLY, HOLY, HOLY",
+            "lyrics": {
+                "tonicSofa": {
+                    "sofaTitle1": "Tune A   4/4",
+                    "sofa1": "d: d: m: m: |s:- s:-|l; l. l: l: |s:- m:- ",
+                    "sofa2": "s; s. s: s: |d: d: t: s:|r: s: l; s.|s:-:- ",
+                    "sofa3": "d: d: m: m: |s:- s:-|l; l. l: l: |s:- m:-  ",
+                    "sofa4": "d:- s: s:|l:-m:-|f; r. r; d.|d:-:-",
+                    "sofaTitle2": " Tune B 6/8",
+                    "sofa5": "m. /m: d . r : t . /d:-. m . / m: d . r : t . /d;",
+                    "sofa6": "s : d.|t:-: /.; t . l . t . /d :-:|:-. d.|",
+                    "sofa7": "f : m. r . d . r . |m:-. d . | f : m. r . d . r . /m:-. d./",
+                    "sofa8": "f : m . r: d. | s’ ; s: d.|t :-: |: t. t. l. t.|",
+                    "sofa9": "d :-: |;  d . d. t.| l:-. l . / t; t. l. t. / d:-: /:-."
+                },
+                "verses": {
+                    "verse1": "1. Holy, Holy, Holy, Lord God Almighty,",
+                    "verse2": "God Olutanmole, everlasting Creator,",
+                    "verse3": "Thou which was and which is, ",
+                    "verse4": "And thou which is to come,",
+                    "verse5": "Thou Father and Son, and Holy Spirit.   (Rev 4:8)",
+                    "verse6": "2. Holy Holy Holy, O Lord Thou art worthy",
+                    "verse7": "To receive all glory and honour and power",
+                    "verse8": "For only thou hath cre-ated heaven and earth",
+                    "verse9": "For thy pleasure they are and were created. (Rev4:11)",
+                    "verse10": "3. Holy Holy Holy, Ascribe ye blessing",
+                    "verse11": "And Majesty, glory and honour and power",
+                    "verse12": "Unto Him that sitteth on the throne of glory",
+                    "verse13": "And unto the Lamb for- ever and ever. (Rev 5:11)",
+                    "verse14": "4. Holy, Holy, Holy, Mighty and Marvelous,",
+                    "verse15": "Are all thy works Lord God Olutanmole",
+                    "verse16": "Righteousness and faithful-ness are all thy ways",
+                    "verse17": "Thou Almighty God king of all ages. (Rev. 15:3)",
+                    "amenHallelujah": "Amen Halleluyah"
+                }
+            }
+        },
+        "holyHoly2": {
+            "id": "2",
+            "title": "HOLY, HOLY, HOLY",
+            "lyrics": {
+                "tonicSofa": {
+                    "sofaTitle1": "Tune A   4/4",
+                    "sofa1": "d: d: m: m: |s:- s:-|l; l. l: l: |s:- m:-",
+                    "sofa2": "s; s. s: s: |d: d: t: s:|r: s: l; s.|s:-:- ",
+                    "sofa3": "d: d: m: m: |s:- s:-|l; l. l: l: |s:- m:- ",
+                    "sofa4": "d:- s: s:|l:-m:-|f; r. r; d.|d:-:-",
+                    "sofaTitle2": "Tune B 6/8",
+                    "sofa5": "m. /m: d . r : t . /d:-. m . / m: d . r : t . /d;",
+                    "sofa6": " s : d.|t:-: /.; t . l . t . /d :-:|:-. d.|",
+                    "sofa7": "f : m. r . d . r . |m:-. d . | f : m. r . d . r . /m:-. d./",
+                    "sofa8": "f : m . r: d. | s’ ; s: d.|t :-: |: t. t. l. t.|",
+                    "sofa9": "d :-: |;  d . d. t.| l:-. l . / t; t. l. t. / d:-: /:-."
+                },
+                "verses": {
+                    "verse1": " 1. Holy, holy, holy;  Lord God Almighty",
+                    "verse2": "Early in the morning our song shall rise to thee",
+                    "verse3": "Holy, holy, holy, merciful and mighty",
+                    "verse4": "God in three Persons, blessed Trinity",
+                    "verse5": "2. Holy, holy, holy; all the Saints adore Thee,",
+                    "verse6": "Casting down their golden crowns around  the  glassy sea,",
+                    "verse7": "Cherubim, Seraphim, falling down before Thee",
+                    "verse8": " Which was and which is and ever more shall be",
+                    "verse9": "3. Holy, holy, holy; though the darkness hide Thee",
+                    "verse10": "Though the eyes of sinful man thy Glory may not see,",
+                    "verse11": "Only thou art holy and Your Representative,",
+                    "verse12": "Perfect in power, love and purity.",
+                    "verse13": " 4. Holy, holy, holy, God Olutanmole",
+                    "verse14": "All thy works shall praise Thy name ",
+                    "verse15": "on earth and sky and sea,",
+                    "verse16": "Holy, holy, holy; merciful and mighty ",
+                    "verse17": "God in three Persons, blessed Trinity.",
+                    "amenHallelujah": "Amen halleluyah"
+                }
+            }
+        },
+        "onlyOneGod": {
+            "id": "3",
+            "title": "Only One God We Are To Worship",
+            "lyrics": {
+                "tonicSofa": {
+                    "sofa1": " d. d. r.|d: s: d: r:|m:-. s. s. l .| s ; f . m: r:|",
+                    "sofa2": "d:-. d . d. r.|d: s: d: r:|m:-. s . s . l .|s ; f . m : r :|d:-.",
+                    "sofa3": "refrain  :- s . s . f .|m; d . d. r . d . l . |s; d. m. m . d . m.|",
+                    "sofa4": "s:-. s . s . l . |s;  f. m : r:|m:-. s. s. l .|s; f.m: r:|d:-."
+                },
+                "verses": {
+                    "verse1": "1. Only one God we're to worship",
+                    "verse2": "And Him only we are  to serve",
+                    "verse3": "All creatures bow down to Him",
+                    "verse4": " Our Father God Ol’tanmole",
+                    "chorusVerse1": "Chorus: Let's remember ",
+                    "chorusVerse2": "He's the Eternal King",
+                    "chorusVerse3": " Who has appointed us",
+                    "chorusVerse4": "His own everlasting Kingdom",
+                    "chorusVerse5": "That  a-ll men may worship Him",
+                    "verse5": "2. The Creator of  Heaven and earth",
+                    "verse6": "the sun and moon and all the stars",
+                    "verse7": "Sea and the fountains of water",
+                    "verse8": "And every living creature",
+                    "chorus1": "Chorus: Let's remember",
+                    "verse9": "3. For as it has been written thus:",
+                    "verse10": "A-ll  the earth shall remember",
+                    "verse11": "And shall all turn unto the Lord",
+                    "verse12": "And the kindred of all nations",
+                    "chorus2": "Chorus: Let's remember",
+                    "verse13": "4. And from the rising of the sun",
+                    "verse14": "Unto going down of the same",
+                    "verse15": "My exalted name shall be great",
+                    "verse16": "Among all the gentile nations",
+                    "chorus3": " Chorus: Let's remember ",
+                    "verse17": "5. O-oh ye ransomed of the Lord",
+                    "verse18": "In all the nations of the earth;",
+                    "verse19": " Ascribe Him the glory, honour",
+                    "verse20": "He that has made you chosen ones",
+                    "chorus4": "Chorus: Let's remember",
+                    "amenHallelujah": "Amen Halleluyah"
+                }
+            }
+        },
+        "weChildren": {
+            "id": "4",
+            "title": "We Children of Kingdom of God",
+            "lyrics": {
+                "tonicSofa": {
+                    "sofa1": "d. d. r.|d: s: d: r:|m:-. s. s. l .| s ; f . m: r:|",
+                    "sofa2": "d:-. d . d. r.|d: s: d: r:|m:-. s . s . l .|s ; f . m : r :|d:-.",
+                    "sofa3": " refrain: s . s . f .|m; d . d. r . d . l . |s; d. m. m . d . m.|",
+                    "sofa4": " s:-. s . s . l . |s;  f. m : r:|m:-. s. s. l .|s; f.m: r:|d:-."
+                },
+                "verses": {
+                    "verse1": "1. We children of Kingdom of God",
+                    "verse2": " We assemble to worship You",
+                    "verse3": "Lord God Olutanmole",
+                    "verse4": "The  Creator of heaven and Earth",
+                    "chorusVerse1": "Chr: We adore you God Olutanmole",
+                    "chorusVerse2": "  For the promi-sed land",
+                    "chorusVerse3": "Inherited for King of Glory",
+                    "chorusVerse4": " For all Kingdomists betterment",
+                    "verse5": "2. Children of Kingdom proclaim ye,",
+                    "verse6": "All the Joy inherent in it;",
+                    "verse7": "The ble-ssings  and the victory",
+                    "verse8": " Which we all receive day by day",
+                    "chorus1": " Chr: We adore you God of Olutanmole",
+                    "verse9": "3. We have one great abode on Earth",
+                    "verse10": "In the City of redemption",
+                    "verse11": " Sighing and sorrows are no more",
+                    "verse12": "Among us His chosen people,",
+                    "chorus2": "Chr: We  adore you God of Olutanmole",
+                    "verse13": "4. The Another Comforter Sent",
+                    "verse14": "Has  overcome Satan 'n' the world",
+                    "verse15": "So, le-t us all, Kihemites",
+                    "verse16": "Imitate Olutanmole",
+                    "chorus3": "Chr: We adore you God of Olutanmole",
+                    "verse17": "5. Host of heaven open the doors",
+                    "verse18": "For us children of Salvation",
+                    "verse19": "We have come to abide with God",
+                    "verse20": "For all His in-effable love",
+                    "chorus4": " Chr: We adore you God of Olutanmole",
+                    "verse21": " 6. Earthy market is vanity",
+                    "verse22": " Invest with God for greater gain",
+                    "verse23": " Friendship with world is vanity",
+                    "verse24": " Make friend with God He never fails",
+                    "chorus5": " Chr: We adore you God of Olutanmole",
+                    "amenHallelujah": " Amen Halleluyah"
+                }
+            }
+        },
+        "theEarth": {
+            "id": "5",
+            "title": "The earth is the lord's  And its fullness",
+            "lyrics": {
+                "tonicSofa": {
+                    "sofaTitle1": "Tune A  3/4",
+                    "sofa1": "s:-: |l: s: m: |d:-:|:- s:|",
+                    "sofa2": "d’:-:|: l:-|s:-:|:- m:|",
+                    "sofa3": "l:-:|: s: m:|d:-:|: m: d: |r:-:|:-:|",
+                    "sofa4": ":-:| :- m:|s:-: |: m: r :|d:-: |:- s:|d’:-: |: l:-|",
+                    "sofa5": "s:-: |:- m:|s:-: |: m: d:|m:-: |: r :- |d:-:|:-:|:-: |",
+                    "sofa6": "refrain: |s: s: s:| d’:-:| :-:|s:-:|d: t: l:|t:-:|:-:| :-: | ",
+                    "sofa7": " d: t: l:|t :-: |: s:-|s: s: s: |m’: r: t:|d:-: |:-: |:-:|:-: |",
+                    "sofaTitle2": "Tune B, 4/4",
+                    "sofa8": " s. l . t . s . |d; m . r ; f . | ",
+                    "sofa9": "m :- s : l . f. | m : f . r. d: l :| t:-",
+                    "sofa10": "s . l . t . s .| d; m . r;  f . |",
+                    "sofa11": "m :- s: l . f .| m:  f . r. d: t: |d:-",
+                    "sofa12": "refrain: d: t . l . s : -| l : s. f . m:-|",
+                    "sofa13": "m: r . d . d . d ; | f : m. r. r. r ;|",
+                    "sofa14": "m: r: d: d:| d: t: d:-"
+                },
+                "verses": {
+                    "verse1": " 1. The earth is the Lord's and its fulness",
+                    "verse2": "The world and all things there-in",
+                    "verse3": "He hath founded it, upon the seas",
+                    "verse4": "And set it upon waters",
+                    "chorusVerse1": "Chorus: O lift up your heads, O O  ye gates",
+                    "chorusVerse2": "And be lifted up, Let the King of Glory in",
+                    "verse5": "Who shall ascend unto the Mount",
+                    "verse6": "The holy Mount of the Lord",
+                    "verse7": "And who's worthy to stand before it",
+                    "verse8": " The sacred place of the Lord",
+                    "chorus1": "Chorus: Lift up your heads",
+                    "verse9": "3. Only he that hath a clean hands",
+                    "verse10": "And hath also his heart pure",
+                    "verse11": "That lifts not his soul to vanity",
+                    "verse12": "And sworn not deceitfully",
+                    "chorus2": "Chorus: Lift up your heads",
+                    "verse13": "4. Such a one shall re- ceive blessing",
+                    "verse14": "From the hands of the Lord God",
+                    "verse15": "And righ-teousness from His hands",
+                    "verse16": "The Lord God o'r  Salvation",
+                    "chorus3": "Chorus: Lift up your heads",
+                    "verse17": "5. We are the generation of them",
+                    "verse18": "That seek thy face O Lord",
+                    "verse19": "Thou Father and Son and Holy Ghost",
+                    "verse20": "Our Lord God that reigneth",
+                    "chorus4": "Chorus: Lift up your heads",
+                    "verse21": "6. Who is this great King of Glory",
+                    "verse22": "So strong and mighty in strength?",
+                    "verse23": "The Lord, mighty in battle",
+                    "verse24": "Thou art This King of Glory",
+                    "chorus5": "Chorus: Lift up your heads",
+                    "amenHallelujah": "Amen Halleluyah"
+                }
+            }
+        },
+        "bowDown" : {
+            "id":"6",
+            "title": "Bow Down Unto Father",
+            "lyrics" : {
+                "tonicSofa" : {
+                "sofa1" :   "s:|m: d . t . l . t . d :|s:-: s : |s : s : f : s . f .|m :-: ",
+                "sofa2" : "s:|m: d . t . l . t . d :|s:-:  d’. r. |m : r . d . r: d . t .|d:-:",
+                "sofa3" : "d’. r. |m : r . d . r: d . t .|d:-:",
+                "sofa4" : "refrain: m . r |d ; d . t . d . t . l .|s . l . s . f . m; d.|",
+                "sofa5" : "d’: d’: d: t . d .|r’:-: ",
+                "sofa6" : "s : | m’; r . d . t . d . l . |s . l . s . f . m: d . r .|",
+                "sofa7" : "m: r . d . r: d . t .|d:-:"
+
+                },
+                "verses" : {
+                  "verse1" :  "1 Bow down unto Father ",
+                  "verse1" : "Son and the Holy Ghost",
+                  "verse1" : "Eternal Creator God ",
+                  "verse1" : "Maker of heaven and of the earth/2ce",
+                  "verse1" : "Chrs:	Let all nations bow down unto God Olutanmole",
+                  "verse1" : "Who has redeemed us all", 
+                  "verse1" : "Halleluyah lift ye up victorious song"
+                  "verse1" : "Triune God thou art King of Glory"
+
+                  "verse1" : "2	It’s ours Almighty God"
+                  "verse1" : "To worship before Thee"
+                  "verse1" :" Like the Host of heaven"
+                  "verse1" : "Singing holy, holy forever/2ce"
+                  "verse1" : "Chrs:	Let all nations bow down unto God Olutanmole"
+
+                  "verse1" : "Glorious, blessed worship"
+                  "verse1" : "Unto everlasting God"
+                  "verse1" : "Shall give worshipper’s joy"
+                  "verse1" : "With heavenly blessing forever"
+                  "verse1" :" Chrs:	Let all nations bow down unto God Olutanmole"
+
+           "verse1" : "4	Day of manifestation"
+           "verse1" :"Account us worthy Lord"
+           "verse1" :"With faithful worshippers"
+           "verse1" :"Worshipping Triune God forever"
+           "verse1" :"Chrs:	Let all nations bow down unto God Olutanmole"
+                "amenHallelujah" :" Amen Halleluyah"
+
+
+                }
+            }
+        }
+    }
+}
